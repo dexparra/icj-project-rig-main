@@ -1,15 +1,15 @@
 {% extends '_templates/base.njk' %}
 
-{% block page_title %}Index page title{% endblock %}
+{% block page_title %}The Dexosphere{% endblock %}
 
 {% block page_description %}The index search description for this page goes here.{% endblock %}
 
 {% block content %}
 <div class="container">
-  <h1>Main headline here</h1>
-  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin in facilisis velit, aliquam congue dui. Mauris id mi quam. Nam enim leo, bibendum vel efficitur id, elementum malesuada est. Pellentesque interdum tempus eros nec iaculis. Quisque ac est dictum, vehicula nulla quis, condimentum dui.</p>
-  <h2>Library books loop</h2>
-  <p>This loops through data that came from a Google Docs example.</p>
+  <h1>The Dexosphere</h1>
+  <p>Welcome to the Dexosphere, an introductory website all about Dex Parra: student, journalist, and writer. On this page, you'll find several pieces of media that define Dex creatively. Each movie and album are among his favorite works of art. Click on each title to learn more.</p>
+  <h2>Movies</h2>
+  <p>These are my favorite movies of all time.</p>
   <div class="row">
     {% for movie in media.movies %}
       <div class="col">
@@ -26,13 +26,5 @@
       </div>
     {% endfor %}
   </div>
-  <h2>Bookstores loop</h2>
-  <p>This loops through data that came from a Google Sheet example.</p>
-  <hr>
-  {% for store in bookstores.stores %}
-    <h3><a href="{{ store.url }}" target="_blank">{{ store.name }}</a></h3>
-    <p>{{ store.address}}, {{ store.city }}, {{ store.state }} {{ store.zip }}</p>
-    <hr>
-  {% endfor %}
 </div>
 {% endblock %}
