@@ -1,0 +1,90 @@
+{
+    "albums": [
+{
+    "name": "Norman F**king Rockwell!",
+    "slug": "norman-f**king-rockwell",
+    "artist": "Lana Del Rey",
+    "ranking": 3,
+    "year": 2019,
+    "record_label": "Interscope Records",
+    "description": "Norman F**king Rockwell is the single best studio album by Dex's most listened to artist of every year since 2014 according to Spotify Wrapped: Lana Del Rey. This album deals with American culture in decline, yet the singer never gives up hope on the country she loves dearly. The lyrics are poetic prose and much more mature than her previous albums. Her vocals are that of a lounge singer that no longer exists in the mainstream. She's the definition of cool. The only reason this ranks third, honestly, is because there is one song ('Cinnamon Girl') that doesn't tickle Dex's fancy. If it weren't for that, this might be #1 or #2 on the list.",
+    "image": "image from HTML file"
+},
+{
+    "name": "CTRL",
+    "slug": "ctrl",
+    "artist": "SZA",
+    "ranking": 2,
+    "year": 2017,
+    "record_label": "Top Dawg Entertainment",
+    "description": "CTRL perfectly sums up what it's like to be lost in your twenties, navigating the tricky ropes of dating, working, and going out. SZA's lyrics roll off the tongue so easily, making it the perfect album for singing along with friends. Intertwined with advice from her mom on cell phone recording, no song is worth skipping. The production value is huge and yet still low-key, perfect for road trips with friends. SZA knows what it's like to feel helpless and out of control, and yet she has the wisdom and willingness to relay how to regain control in your young life.",
+    "image": "image from HTML file"
+},
+{
+    "name": "Be the Cowboy",
+    "slug": "be-the-cowboy",
+    "artist": "Mitski",
+    "ranking": 4,
+    "year": 2018,
+    "record_label": "Dead Oceans",
+    "description": "Be the Cowboy should have won the Grammy for Album of the Year, and it's not even close. Mitski deals in heartbreak and loss, but she copes with pop synthesizers loud enough to cover up her angst. She makes sad songs you can dance to, and that's a difficult line to thread. She has a powerhouse voice that shakes and rambles with ease. Dex's only qualm with this album is the length: it should be at least 15 minutes longer, which might be one of the reasons Mitski lost out on the Grammy.",
+    "image": "image from HTML file"
+},
+{
+    "name": "Punisher",
+    "slug": "punisher",
+    "artist": "Phoebe Bridgers",
+    "ranking": 1,
+    "year": 2020,
+    "record_label": "Dead Oceans",
+    "description": "Punisher is Phoebe Bridger's sophomore album, and she improved upon her debut ('Stanger in the Alps') in every way possible — which is saying a lot considering the former was a masterpiece upon release. Her vocals are absolutely haunting and the background music is even more chilling. The lyrics seem to float around in this mystic space between the studio and the listener's ears. Dex loves it because it's his go-to album for just about every occasion: crying in the car, vibing with friends, studying with it on loop, etc. The sonic release of the final song, 'I Know the End,' is the ultimate catharsis ever taped.",
+    "image": "image from HTML file"
+}
+    ],
+    "movies": [
+        {
+            "name": "Dead Poets Society",
+            "slug": "dead-poets-society",
+            "director": "Peter Weir",
+            "year": 1989,
+            "country": "USA",
+            "rotten_tomatoes": 0.84,
+            "studio": "Touchstone",
+            "description": "Dead Poets Society was recommended to Dex by his 9th grade English teacher when he told her he was battling inner turmoil concerning growing up, conformity and loneliness. He relates both to the main character, as well as to his roommate and best friend played by Ethan Hawke. To this day, he still weeps during the final scene.",
+            "image": "dead-poets-society.jpg"
+        },
+        {
+            "name": "Portrait of a Lady on Fire",
+            "slug": "portrait-of-a-lady-on-fire",
+            "director": "Celine Sciamma",
+            "year": 2019,
+            "country": "France",
+            "rotten_tomatoes": 0.97,
+            "studio": "Arte",
+            "description": "Portrait of a Lady on Fire deals with equal parts forbidden class affairs and forbidden homosexual affairs, two topics that reel Dex into any cinema. He loves how whimsical the filming style is, and he's enamored by the dual lead performances. The film probably shows a maximum of ten minutes of screen time with men in the frame, and this is deliberate from the female director. It's radical in its artfulness and aggressive in its feminist messages, including lesbianism, reproductive care, and forced marriages.",
+            "image": "portrait-of-a-lady-on-fire.jpg"
+        },
+        {
+            "name": "Phantom Thread",
+            "slug": "phantom-thread",
+            "director": "Paul Thomas Anderson",
+            "year": 2017,
+            "country": "USA",
+            "rotten_tomatoes": 0.91,
+            "studio": "Annapurna",
+            "description": "Phantom Thread, like Eyes Wide Shut, is Dex's favorite film in a director's filmography, this one being Paul Thomas Anderson. He likes how delicate each shot is, how tense the plot becomes, and how stellar the trio of lead performers are. Compared to PTA's other films, this one is the most understated and quiet, while still captivating the audience. Dex is especially drawn to the power dynamics between an artist and his muse, a man and his sister who manages his work, and between working woman and the business venture she becomes tangled up in.",
+            "image": "phantom-thread.jpg"
+        },
+        {
+            "name": "Eyes Wide Shut",
+            "slug": "eyes-wide-shut",
+            "director": "Stanley Kubrick",
+            "year": 1999,
+            "country": "USA",
+            "rotten_tomatoes": 0.76,
+            "studio": "Stanley Kubrick Productions",
+            "description": "Eyes Wide Shut is Dex's favorite Stanley Kubrick movie, which is saying a lot considering he's seen Kubrick's entire filmography. This one in particular is so captivating because of Nicole Kidman and Tom Cruises' performances, as well as the subject matter of infidelity in a marriage. Dex loves movies that deal with the inner workings of people's minds, and underground cults also pique his interest. He loves the grand set designs and the elaborate camera angles and movements.",
+            "image": "eyes-wide-shut.jpg"
+        }
+    ]
+}

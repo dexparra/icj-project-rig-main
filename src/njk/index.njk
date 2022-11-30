@@ -11,10 +11,18 @@
   <h2>Library books loop</h2>
   <p>This loops through data that came from a Google Docs example.</p>
   <div class="row">
-    {% for book in library.books %}
+    {% for movie in media.movies %}
       <div class="col">
-        <img src="img/{{ book.slug }}.jpg" alt="" class="img-fluid">
-        <h3><a href="books/{{ book.slug }}.html">{{ book.title }}</a></h3>
+        <img src="img/{{ movie.slug }}.jpg" alt="" class="img-fluid">
+        <h3><a href="movies/{{ movie.slug }}.html">{{ movie.name }}</a></h3>
+      </div>
+    {% endfor %}
+  </div>
+  <div class="row">
+    {% for album in media.albums %}
+      <div class="col">
+        <img src="img/{{ album.slug }}.jpg" alt="" class="img-fluid">
+        <h3><a href="albums/{{ album.slug }}.html">{{ album.name }}</a></h3>
       </div>
     {% endfor %}
   </div>
