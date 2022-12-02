@@ -49,6 +49,11 @@ h1 {
   font-family: Copperplate; 
 }
 
+h2 {
+  font-family: 'Times New Roman', Times, serif;
+  color: brown;
+}
+
 .brief {
   color:#286938;
   text-align: center;
@@ -60,11 +65,6 @@ body {
 /* For mobile phones: */
 [class*="col-"] {
   width: 100%;
-}
-
-h2 {
-  font-family: 'Times New Roman', Times, serif;
-  color: brown;
 }
 
 @media only screen and (min-width: 600px) {
