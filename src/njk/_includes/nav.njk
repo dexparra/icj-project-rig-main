@@ -22,7 +22,7 @@
           </a>
           <ul class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
             {% for album in media.albums %}
-            <li><a class="dropdown-item" href="{{ relative_path }}albums/{{ album.slug}}.html">{{ album.name }}</a></li>
+            <li><a class="dropdown-item-albums" href="{{ relative_path }}albums/{{ album.slug}}.html">{{ album.name }}</a></li>
             {% endfor %}
           </ul>
         </li>
